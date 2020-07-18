@@ -1,0 +1,7 @@
+{
+   "firstname":"{{f_name}}",
+   "lastname":"{{l_name}}",
+   "city":"new delhi",
+   "id":"{{id}}"
+   
+ }
